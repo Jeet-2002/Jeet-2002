@@ -12,7 +12,7 @@ I'm a passionate BCA graduate eager to start my career in the tech industry. I l
 ## 📚 Currently Learning
 - Business Analysis
 - Data Structures & Algorithms
-- Cloud Computing Basics
+- Web Developments 
 
 ## 📫 How to Reach Me
 - LinkedIn: [Your LinkedIn Profile](#)
