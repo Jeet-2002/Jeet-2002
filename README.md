@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! 👋 I'm [Your Name]
 
-<!--
-**Jeet-2002/Jeet-2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I'm a passionate BCA graduate eager to start my career in the tech industry. I love coding, learning new technologies, and solving real-world problems with innovative solutions.
 
-Here are some ideas to get you started:
+## 💻 Skills & Technologies
+- Programming Languages: Python, Java, C++
+- Web Development: HTML, CSS, JavaScript
+- Databases: MySQL, SQLite
+- Tools & Platforms: Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- Business Analysis
+- Data Structures & Algorithms
+- Cloud Computing Basics
+
+## 📫 How to Reach Me
+- LinkedIn: [Your LinkedIn Profile](#)
+- Email: [Your Email](mailto:your-email@example.com)
+
+## 🌱 Fun Fact
+I enjoy exploring new technologies, contributing to open-source projects, and collaborating with developers worldwide.
+
+---
+
+⭐️ Feel free to check out my repositories and connect with me!
