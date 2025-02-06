@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Jeet Chakraborty!!
 
 ## 🚀 About Me
 I'm a passionate BCA graduate eager to start my career in the tech industry. I love coding, learning new technologies, and solving real-world problems with innovative solutions.
