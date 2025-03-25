@@ -4,19 +4,19 @@
 I'm a passionate BCA graduate eager to start my career in the tech industry. I love coding, learning new technologies, and solving real-world problems with innovative solutions.
 
 ## 💻 Skills & Technologies
-- Programming Languages: Python, Java, C++
+- Programming Languages: PHP, WordPress, Java, Python
 - Web Development: HTML, CSS, JavaScript
-- Databases: MySQL, SQLite
+- Databases: MySQL
 - Tools & Platforms: Git, GitHub, VS Code
 
 ## 📚 Currently Learning
-- Business Analysis
 - Data Structures & Algorithms
-- Web Developments 
+- Web Developments
+- jQuery 
 
 ## 📫 How to Reach Me
-- LinkedIn: [Your LinkedIn Profile](#)
-- Email: [Your Email](mailto:your-email@example.com)
+- LinkedIn: www.linkedin.com/in/jeet-chakraborty-52b92028b
+- Email: [Your Email](mailto:jeetc2308@gmail.com)
 
 ## 🌱 Fun Fact
 I enjoy exploring new technologies, contributing to open-source projects, and collaborating with developers worldwide.
