@@ -16,7 +16,7 @@ I'm a passionate BCA graduate eager to start my career in the tech industry. I l
 
 ## 📫 How to Reach Me
 - LinkedIn: www.linkedin.com/in/jeet-chakraborty-52b92028b
-- Email: [Your Email](mailto:jeetc2308@gmail.com)
+- Email: [jeetc2308@gmail.com](mailto:jeetc2308@gmail.com)
 
 ## 🌱 Fun Fact
 I enjoy exploring new technologies, contributing to open-source projects, and collaborating with developers worldwide.
